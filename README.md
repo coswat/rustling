@@ -1,4 +1,4 @@
 ## Rustling Exercises
 
-completed 30/95
+completed 40/95
 
